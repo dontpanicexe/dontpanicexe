@@ -15,5 +15,8 @@
 <img src="https://uploadkon.ir/uploads/a9d417_26Untitled50-20260817110246.png" width="40"align="center"> <img src="https://uploadkon.ir/uploads/9bdb17_26Untitled31-20260817104552.png" width="100"align="center"> <img src="https://uploadkon.ir/uploads/a9d417_26Untitled50-20260817110246.png" width="40"align="center">
 </p>
 <p align="center">
+<img src="https://uploadkon.ir/uploads/e8d817_2620260817-123251.gif" width="200"align="center"> $\color{#8D6B90}{\textsf{Fascination Street - The Cure}}$
+</p>
+<p align="center">
 <img src="https://uploadkon.ir/uploads/b7f315_26Untitled61-20260815222205.png" width="330"align="center">
 </p>
