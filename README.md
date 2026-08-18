@@ -15,16 +15,8 @@
 <img src="https://uploadkon.ir/uploads/1fb117_26Untitled60-20260817124329.png" width="40"align="center"> <img src="https://uploadkon.ir/uploads/9bdb17_26Untitled31-20260817104552.png" width="100"align="center"> <img src="https://uploadkon.ir/uploads/1fb117_26Untitled60-20260817124329.png" width="40"align="center">
 </p>
 <p align="center">
-  <a href="link">
-    <img src="https://img.shields.io/badge/%20%E2%9D%9B%20𝚠𝚒𝚙%20%F0%93%88%92%20-564D78?style=flat&labelColor=564D78" alt="wip">
-</a>
- ‌&nbsp;&nbsp;
 <a href="https://github.com/lilsweeterlilbitter">
-    <img src="https://img.shields.io/badge/%20%E2%9D%9B%20𝚖𝚊𝚒𝚗%20%F0%93%88%92%20-8D6B90?style=flat&labelColor=8D6B90" alt="main">
-</a>
-  &nbsp;&nbsp;
-  <a href="link">
-    <img src="https://img.shields.io/badge/%20%E2%9D%9B%20𝚠𝚒𝚙%20%F0%93%88%92%20-564D78?style=flat&labelColor=564D78" alt="wip">
+    <img src="https://uploadkon.ir/uploads/4c3d18_26Untitled50-20260818182334.png" width="100"align="center"> alt="main">
 </a>
 </p>
 <p align="center">
