@@ -16,7 +16,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/lilsweeterlilbitter">
-    <img src="https://uploadkon.ir/uploads/4c3d18_26Untitled50-20260818182334.png" width="100"align="center"> alt="main">
+    <img src="https://uploadkon.ir/uploads/4c3d18_26Untitled50-20260818182334.png" width="100"align="center" alt="main">
 </a>
 </p>
 <p align="center">
